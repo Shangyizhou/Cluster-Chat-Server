@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/chatserver.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/chatservice.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/main.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/db/db.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/friendmodel.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/groupmodel.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/usermodel.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/server",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/redis/redis.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/build/src/client",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/db -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/model -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/include/server/redis -I/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/thidrparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/client/main.cpp",
+  "file": "/home/shang/code/C++/github-project/student-work-project/Cluster-Server-Chat/src/client/main.cpp"
+}
+]
