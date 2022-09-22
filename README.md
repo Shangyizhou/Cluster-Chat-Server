@@ -186,7 +186,7 @@ void ChatServer::onMessage(const TcpConnectionPtr &conn,
 
 ## redis发布-订阅功能解决跨服务器通信问题
 
-## 如何保证支持跨服务器通信
+### 如何保证支持跨服务器通信
 
 我们之前的`ChatServer`是维护了一个连接的用户表，每次向别的用户发消息都会从用户表中查看对端用户是否在线。然后再判断是直接发送，还是转为离线消息。
 
